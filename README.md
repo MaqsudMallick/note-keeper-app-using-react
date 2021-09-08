@@ -1,2 +1,1 @@
-# note-keeper-app-using-react
-Created with CodeSandbox
+#This is a home-made version of note keeping app to take down your notes.
