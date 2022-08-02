@@ -1,1 +1,1 @@
-#This is a home-made version of note keeping app to take down your notes.
+#An app with simple UI to create, update and delete all of your day to day sticky notes.
